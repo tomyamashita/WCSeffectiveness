@@ -3,7 +3,7 @@ This README.txt file was generated on 2024-11-19 by Thomas J. Yamashita
 GENERAL INFORMATION
 
 1. Title of Dataset: Predicting species assemblages at wildlife crossing structures using multivariate regression of principal coordinates
-	This data is associated with the manuscript, titled Predicting species assemblages at wildlife crossing structures using multivariate regression of principal coordinates, available here: XXXX
+	This data is associated with the manuscript, titled Predicting species assemblages at wildlife crossing structures using multivariate regression of principal coordinates, available here: https://github.com/tomyamashita/WCSeffectiveness
 
 2. Author Information
 	Thomas J. Yamashita
